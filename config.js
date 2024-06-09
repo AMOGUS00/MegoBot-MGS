@@ -7,21 +7,21 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇kana-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇Yato-Bot』*"
 global.confirmCode = ""
 
-global.owner =[['201554160374', 'Dev', true],
+global.owner =[['201507652073', 'Dev', true],
 ];
 
-global.suittag = ['201554160374'];
-global.prems = ['201554160374'];
+global.suittag = ['201507652073'];
+global.prems = ['201507652073'];
 
-global.packname = '☾︎ KANABOT-𝙈𝘿 ☽︎';
-global.author = '✩kana-𝙱𝙾𝚃☆';
-global.wm = '✯KANABOT-𝐌𝐃✯';
-global.titulowm = '☾︎ KANABOT-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ KANABOT-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ KANABOT-𝙈𝘿 ☽︎';
+global.packname = '☾︎ YatoBot-𝙈𝘿 ☽︎';
+global.author = '✩yato-𝙱ot☆';
+global.wm = '✯Yato Bot-𝐌𝐃✯';
+global.titulowm = '☾︎ YATOBOT-𝙈𝘿 ☽︎';
+global.titulowm2 = `☾︎ YATOBOT-𝙈𝘿 ☽︎`
+global.igfg = '☾︎ YATOBOT-𝙈𝘿 ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,15 +42,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ KANABOT-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ KANABOT-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ KANABOT-𝙈𝘿 ☽︎';
+global.wm2 = `${dia} ${fecha}\n☾︎ YATOBOT-𝙈𝘿 ☽︎`;
+global.gt = '☾︎ YATOBO-𝙈𝘿 ☽︎';
+global.mysticbot = '☾︎ YATOBOT-𝙈𝘿 ☽︎';
 global.md = 'atom.bio/mego51_51';
 global.mysticbot = 'atom.bio/mego51_51';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '201003691617';
+global.nomorown = '201507652073';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
