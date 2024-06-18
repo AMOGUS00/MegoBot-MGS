@@ -56,7 +56,7 @@
   
 ### `▢ نشر في ريبلايت`
 
-[![نشر في ريبلايت](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
+[![نشر في ريبلايت](https://repl.it/badge/https://github.com/AMOGUS00/MegoBot-MGS)](https://repl.it/https://github.com/AMOGUS00/MegoBot-MGS) 
   
 ### `▢ نشر في ريندر`
 
